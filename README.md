@@ -3,4 +3,4 @@ Primera parte donde simplemente creamos la clase Catalogo con unos atributos (au
 
 Acceder a http://localhost:8080/swagger-ui/index.html y sale la UI 
 
-Acceder a http://localhost:8080/v3/api-docs para acceder al JSON que es la API
+Acceder a http://localhost:8080/v3/api-docs para acceder al JSON de la API
